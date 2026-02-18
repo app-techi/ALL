@@ -3,12 +3,10 @@
   "items": [
     {
       "id": "c38",
-      "titulo": "uno",
       "portada": "/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
       "fondo": "/9dn8tBsO6MUGZPfMq6Nn9WfV1Fl.jpg",
       "fecha": 1672531200000,
-      "cat": "TENDENCIA" // <-- ¡Este campo es clave!
+      "cat": "Tendencia"
     }
   ]
 }
-
