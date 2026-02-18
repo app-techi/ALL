@@ -1,6 +1,6 @@
 {
   "id": "c38",
-  "version": 8,
+  "version": 11,
   "ano": "2025",
   "categoria": "Películas",
   "duracion": "107 min.",
@@ -10,12 +10,10 @@
   "idiomas": "Latino / Inglés",
   "pais": "🇺🇸 Estados Unidos",
   "portada": "/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
-  "search": "Serpiente, zorro, conejita, policía, secuela, antropomorfismo, animales, desplazamiento, pareja de policías, comedia de compañeros, complejo, juguetón, animal parlante, animación 3D, avergonzado, emocionado, 4K DV HDR+, Dolby Vision, HDRplus, SDR, 1080p, 7.1",
   "similar": {
     "sug7": "/Zootopia"
   },
   "sinopsis": "Tras resolver el caso más grande de Zootopia, Judy y Nick enfrentan un nuevo misterio con la llegada de Gary De'Snake. Al trabajar encubiertos en zonas desconocidas, su alianza será puesta a prueba como nunca antes.",
-  "tagline": "/Zootopia cambiará[/para siempre...",
   "terabox": {
     "11a𝟏𝟎𝟖𝟎𝐩": "https://1024terabox.com/s/1pKuyF6v8Er9Gn3LB3DCUFQ",
     "5a𝟒𝐊 𝐃𝐕 𝐇𝐃𝐑+": "",
@@ -30,4 +28,5 @@
   "urlVideo": "https://1024terabox.com/s/16W50FIv3Lyf1qRiFmSumTA"
 
 }
+
 
