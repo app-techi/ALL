@@ -105,7 +105,7 @@
         "fecha": 1750395600221
     },
     {
-        "portada": "https://i.imgur.com/orOXRmO.jpeg",
+        "urlPortada": "https://i.imgur.com/orOXRmO.jpeg",
         "id": "c32",
         "fecha": 1750395480332
     },
@@ -125,7 +125,7 @@
         "fecha": 1738904400473
     },
     {
-        "portada": "https://i.imgur.com/JRBB5gu.jpeg",
+        "urlPortada": "https://i.imgur.com/JRBB5gu.jpeg",
         "id": "c43",
         "fecha": 1731992400151
     },
