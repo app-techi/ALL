@@ -1,11 +1,11 @@
 [
     {
-        "portada": "https://i.imgur.com/EMgmiyd.jpeg",
+        "urlPortada": "https://i.imgur.com/EMgmiyd.jpeg",
         "id": "c53",
         "fecha": 1770958800150
     },
     {
-        "portada": "https://i.imgur.com/3W3hGqm.jpeg",
+        "urlPortada": "https://i.imgur.com/3W3hGqm.jpeg",
         "id": "c37",
         "fecha": 1768619760680
     },
@@ -40,12 +40,12 @@
         "fecha": 1749186000203
     },
     {
-        "portada": "https://i.imgur.com/lPcQBDb.jpeg",
+        "urlPortada": "https://i.imgur.com/lPcQBDb.jpeg",
         "id": "c36",
         "fecha": 1736051640478
     },
     {
-        "portada": "https://i.imgur.com/TxDlRkB.jpeg",
+        "urlPortada": "https://i.imgur.com/TxDlRkB.jpeg",
         "id": "c10",
         "fecha": 1733288400242
     },
@@ -55,7 +55,7 @@
         "fecha": 1732338000533
     },
     {
-        "portada": "https://i.imgur.com/8pVsoye.jpeg",
+        "urlPortada": "https://i.imgur.com/8pVsoye.jpeg",
         "id": "c40",
         "fecha": 1706245200509
     },
