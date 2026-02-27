@@ -36,7 +36,7 @@
         }
     },
     {
-        "portada": "https://i.imgur.com/EMgmiyd.jpeg",
+        "urlPortada": "https://i.imgur.com/EMgmiyd.jpeg",
         "id": "c53",
         "fondo": "/qy8gJEwspR7L5WZn4e8ItwK8m23.jpg",
         "tagline": "/Incluso las vidas rotas[/dejan hermosas huellas.",
@@ -45,3 +45,4 @@
         }
     }
 ]
+
