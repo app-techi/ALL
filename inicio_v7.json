@@ -36,7 +36,7 @@
     }
   },
   {
-    "portada": "https://i.imgur.com/EMgmiyd.jpeg",
+    "urlPortada": "https://i.imgur.com/EMgmiyd.jpeg",
     "id": "c53",
     "fondo": "/qy8gJEwspR7L5WZn4e8ItwK8m23.jpg",
     "tagline": "/Incluso las vidas rotas[/dejan hermosas huellas.",
@@ -48,9 +48,10 @@
     "portada": "/sj7Gb79b5f45EC4IQBQPqJjLjNP.jpg",
     "id": "c54",
     "fondo": "/nRxbtO6OchyepUL2Zr4dpMZsdsX.jpg",
-    "tagline": "La primavera no solo llegó... reescribió su historia.",
+    "tagline": "/La primavera no solo llegó...[/reescribió su historia.",
     "top": {
       "home1": "Novedad"
     }
   }
 ]
+
